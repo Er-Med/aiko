@@ -139,7 +139,7 @@ header .nav ul{
     min-width: 200px;
     position: absolute;
     top: 35px;
-    right: 0;
+    right: 55-;
     display: flex; 
     transition: display .3s;
     z-index: 1;
