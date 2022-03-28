@@ -139,7 +139,7 @@ header .nav ul{
     min-width: 200px;
     position: absolute;
     top: 35px;
-    right: 55-;
+    right: 0;
     display: flex; 
     transition: display .3s;
     z-index: 1;
@@ -246,7 +246,9 @@ header .nav ul li:not(:last-child){
     }
     .title h1{
         font-size: 55;
+        
     }
+    .header .nav ul{right:"55-"}
 }
 
 /* End lending */
